@@ -65,7 +65,7 @@ export default function HomePage() {
         <div className="py-20">
           <div className="aspect-[16/9] bg-gray-100 rounded-lg overflow-hidden">
             <img
-              src="/placeholder.svg?height=600&width=1200"
+              src="/nextjs-github-pages/placeholder.svg?height=600&width=1200"
               alt="Featured Photography"
               className="w-full h-full object-cover"
             />
